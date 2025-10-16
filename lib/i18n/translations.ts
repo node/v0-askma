@@ -128,6 +128,12 @@ export const translations = {
       writeAnswer: "Write your answer...",
       submitting: "Submitting...",
       submitAnswer: "Submit Answer",
+      answerVotes: "answer likes",
+      followUp: "Follow-up",
+      writeFollowUp: "Write a follow-up question...",
+      submitFollowUp: "Submit Follow-up",
+      onlyOriginalAsker: "Only the original questioner can ask a follow-up",
+      alreadyAskedFollowUp: "You've already asked a follow-up question",
     },
     // Public AMA
     publicAMA: {
@@ -148,6 +154,13 @@ export const translations = {
       noQuestionsDescription: "Be the first to ask a question!",
       backToHome: "Back to Home",
       scanQR: "Scan QR Code to Ask",
+      statistics: "Statistics",
+      answeredQuestions: "Answered",
+      totalQuestions: "Total Questions",
+      questionLikes: "Question Likes",
+      answerLikes: "Answer Likes",
+      banner: "Banner",
+      uploadBanner: "Upload Banner",
     },
     // Footer
     footer: {
@@ -279,6 +292,12 @@ export const translations = {
       writeAnswer: "写下您的回答...",
       submitting: "提交中...",
       submitAnswer: "提交回答",
+      answerVotes: "个答案点赞",
+      followUp: "追问",
+      writeFollowUp: "写下您的追问...",
+      submitFollowUp: "提交追问",
+      onlyOriginalAsker: "只有提问者可以追问",
+      alreadyAskedFollowUp: "您已经追问过了",
     },
     // Public AMA
     publicAMA: {
@@ -299,6 +318,13 @@ export const translations = {
       noQuestionsDescription: "成为第一个提问的人！",
       backToHome: "返回首页",
       scanQR: "扫码提问",
+      statistics: "统计数据",
+      answeredQuestions: "已回答",
+      totalQuestions: "问题总数",
+      questionLikes: "问题点赞数",
+      answerLikes: "答案点赞数",
+      banner: "横幅",
+      uploadBanner: "上传横幅",
     },
     // Footer
     footer: {
