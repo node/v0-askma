@@ -28,7 +28,7 @@ export const translations = {
     },
     // Home Page
     home: {
-      title: "AMA Platform",
+      title: "AskMA Platform",
       hero: "Host Interactive AMA Sessions",
       heroDescription: "Create engaging Ask Me Anything events with real-time questions, voting, and answers",
       createAMA: "Create Your AMA",
@@ -195,7 +195,7 @@ export const translations = {
     },
     // Home Page
     home: {
-      title: "AMA 平台",
+      title: "AskMA 问答平台",
       hero: "举办互动问答活动",
       heroDescription: "创建引人入胜的问答活动，支持实时提问、投票和回答",
       createAMA: "创建您的问答活动",
